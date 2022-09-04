@@ -1,0 +1,84 @@
+#foto {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.intro h2 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+.intro p {
+    margin: 0;
+}
+.section1 {
+    background-color: white;
+}
+.section1 p {
+    color: rgb(80, 80, 80);
+    padding: 50px;
+    text-align: justify;
+}
+#text-main {
+    font-size: 40px;
+}
+.section2 h2 {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.foot {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.foot1 {
+    padding: 30px;
+    text-align: center;
+}
+.foot1 h2 {
+    color: rgb(80, 80, 80);
+    font-size: 20px;
+}
+#email {
+    text-decoration: none;
+    color: rgb(80, 80, 80);
+}
+#email:hover {
+    /* opacity: 0.5; */
+    color: #d36103;
+}
+#email1 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+#icon {
+    margin-top: 10px;
+}
+.foot1 ul {
+    color: rgb(80, 80, 80);
+    font-weight: 600;
+}
+.foot-marca p {
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
+#font-code {
+    text-decoration: none;
+    color: rgb(80, 80, 80);
+    font-weight: 700;
+    margin-top: 10px;
+}
+#font-code:hover {
+    color: #d36103;
+}
+#myImg {
+    width:100%;
+    max-width:50px;
+    border-radius: 5px;
+}
+   
